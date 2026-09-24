@@ -1,4 +1,4 @@
-# Merhaba, ben Ersin 👋
+[# Merhaba, ben Ersin 👋
 
 **Flutter & Dart geliştiricisi** — AI-native araçlar, eğitici oyunlar ve vibe coding dersleri.
 
@@ -52,3 +52,4 @@ Seriden çıkan örnek: **Kelime Ustası** — canlı yayında 4 dakika 27 saniy
 
 <sub>Flutter & Dart ile geliştirildi. 🚀</sub>
 
+](https://apps.apple.com/tr/app/pacabc/id6754771007)
