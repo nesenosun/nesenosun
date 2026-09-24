@@ -1,10 +1,15 @@
-[# Merhaba, ben Ersin 👋
+# Merhaba, ben Ersin 👋
 
 **Flutter & Dart geliştiricisi** — AI-native araçlar, eğitici oyunlar ve vibe coding dersleri.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-555555?logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+![Web](https://img.shields.io/badge/Web-4285F4?logo=googlechrome&logoColor=white)
 
 ---
 
@@ -36,14 +41,16 @@ Seriden çıkan örnek: **Kelime Ustası** — canlı yayında 4 dakika 27 saniy
 
 ## 🛠️ Teknolojiler
 
-`Flutter` · `Dart` · `Firebase` · `AI ajanları` · `macOS & Windows`
+`Flutter` · `Dart` · `Firebase` · `AI ajanları`
+`Android` · `iOS` · `macOS` · `Windows` · `Web`
 
 ## 📫 Bana Ulaş
 
 - 🌐 Portföy: [nesenosun.web.app](https://nesenosun.web.app/)
+- 🕹️ Google Play: [nesenosun geliştirici sayfası](https://play.google.com/store/apps/dev?id=6918972693320903830)
 - 💼 LinkedIn: [ersin-boçnak](https://www.linkedin.com/in/ersin-bo%C3%A7nak-162603218/)
 - 🎬 YouTube: [@nesenosun](https://www.youtube.com/@nesenosun)
-- 🐦 X: [@sinermis](https://x.com/sinermis)
+- 🐦 X: [@nesenosun](https://x.com/nesenosun)
 - 📸 Instagram: [@sinermis](https://www.instagram.com/sinermis/)
 - 👨‍💻 Google Developer: [g.dev/ersinbocnak](https://g.dev/ersinbocnak)
 - ✉️ E-posta: [nesenosun@gmail.com](mailto:nesenosun@gmail.com)
@@ -51,5 +58,3 @@ Seriden çıkan örnek: **Kelime Ustası** — canlı yayında 4 dakika 27 saniy
 ---
 
 <sub>Flutter & Dart ile geliştirildi. 🚀</sub>
-
-](https://apps.apple.com/tr/app/pacabc/id6754771007)
